@@ -18,6 +18,8 @@ class MainViewController: UIViewController {
     
     var rides = Array<Ride>()
     
+    let rideRef = Database.database().reference().child("rides")
+    
     override func viewDidLoad() {
         super.viewDidLoad()
         
@@ -35,6 +37,12 @@ class MainViewController: UIViewController {
         observeRides()
         tableView.reloadData()
         
+    }
+    
+    override func viewWillDisappear(_ animated: Bool) {
+        super.viewWillDisappear(animated)
+        
+        self.rideRef.removeAllObservers()
     }
     
     
@@ -56,10 +64,8 @@ class MainViewController: UIViewController {
     
     func observeRides() {
         
-        let rideRef = Database.database().reference().child("rides")
-        
         guard let currentUserUID = UserService.currentUser?.uid else { return }
-        rideRef.observe(.value) { (snapshot) in
+        self.rideRef.observe(.value) { (snapshot) in
             
             var tempRides = Array<Ride>()
             
@@ -158,6 +164,10 @@ class MainViewController: UIViewController {
         let center = UNUserNotificationCenter.current()
         
         center.removePendingNotificationRequests(withIdentifiers: identifiers)
+    }
+    
+    deinit {
+        print("MainViewController was deinited")
     }
     
 }

@@ -208,6 +208,10 @@ class NewRideViewController: UIViewController {
         let center = UNUserNotificationCenter.current()
         center.add(request, withCompletionHandler: nil)
     }
+    
+    deinit {
+        print("NewRideViewController was deinited")
+    }
 
 }
 
