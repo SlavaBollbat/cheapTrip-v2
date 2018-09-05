@@ -24,7 +24,7 @@ class RidesViewController: UIViewController {
         
         tableView.delegate = self
         tableView.dataSource = self
-
+        
         tableView.tableFooterView = UIView(frame: CGRect.zero)
         
     }
@@ -165,7 +165,7 @@ extension RidesViewController: UITableViewDelegate, UITableViewDataSource {
             rideRef.updateChildValues(["companions" : newArray])
             
             self.sendNotification(date: ride.date, identifier: ride.destinationAddress, phonenumber: ride.owner.phonenumber)
-
+            
             
         }
         

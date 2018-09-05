@@ -18,6 +18,8 @@ class ImageService {
             
             var downloadedImage: UIImage?
             
+            
+            
             if let data = data {
                 downloadedImage = UIImage(data: data )
             }
