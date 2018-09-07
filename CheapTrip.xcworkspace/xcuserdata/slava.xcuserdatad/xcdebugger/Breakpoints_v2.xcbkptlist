@@ -58,13 +58,13 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "CheapTrip/Controllers/MainViewController.swift"
-            timestampString = "557823017.157974"
+            timestampString = "557971084.644088"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "32"
-            endingLineNumber = "32"
-            landmarkName = "viewDidLoad()"
-            landmarkType = "7">
+            startingLineNumber = "33"
+            endingLineNumber = "33"
+            landmarkName = "unknown"
+            landmarkType = "0">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -74,13 +74,13 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "CheapTrip/Controllers/MainViewController.swift"
-            timestampString = "557823017.158111"
+            timestampString = "557971084.644703"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "24"
-            endingLineNumber = "24"
-            landmarkName = "viewDidLoad()"
-            landmarkType = "7">
+            startingLineNumber = "25"
+            endingLineNumber = "25"
+            landmarkName = "unknown"
+            landmarkType = "0">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -95,8 +95,8 @@
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "80"
             endingLineNumber = "80"
-            landmarkName = "loginPressed(_:)"
-            landmarkType = "7">
+            landmarkName = "unknown"
+            landmarkType = "0">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -234,13 +234,13 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "CheapTrip/Controllers/MainViewController.swift"
-            timestampString = "557823017.158325"
+            timestampString = "557971084.645081"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "73"
-            endingLineNumber = "73"
-            landmarkName = "observeRides()"
-            landmarkType = "7">
+            startingLineNumber = "74"
+            endingLineNumber = "74"
+            landmarkName = "unknown"
+            landmarkType = "0">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -250,7 +250,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "CheapTrip/Controllers/NewRideViewController.swift"
-            timestampString = "557677676.6965851"
+            timestampString = "558013019.6279449"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "130"
@@ -266,13 +266,13 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "CheapTrip/Controllers/MainViewController.swift"
-            timestampString = "557823017.158429"
+            timestampString = "557971084.645357"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "78"
-            endingLineNumber = "78"
-            landmarkName = "observeRides()"
-            landmarkType = "7">
+            startingLineNumber = "79"
+            endingLineNumber = "79"
+            landmarkName = "unknown"
+            landmarkType = "0">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -282,13 +282,13 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "CheapTrip/Controllers/MainViewController.swift"
-            timestampString = "557823017.158501"
+            timestampString = "557971084.645679"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "67"
-            endingLineNumber = "67"
-            landmarkName = "observeRides()"
-            landmarkType = "7">
+            startingLineNumber = "68"
+            endingLineNumber = "68"
+            landmarkName = "unknown"
+            landmarkType = "0">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -362,7 +362,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "CheapTrip/Controllers/RidesViewController.swift"
-            timestampString = "557823017.15871"
+            timestampString = "557971084.646179"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "137"
@@ -410,13 +410,13 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "CheapTrip/Controllers/MainViewController.swift"
-            timestampString = "557823017.159269"
+            timestampString = "557971084.646274"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "223"
-            endingLineNumber = "223"
-            landmarkName = "tableView(_:editActionsForRowAt:)"
-            landmarkType = "7">
+            startingLineNumber = "224"
+            endingLineNumber = "224"
+            landmarkName = "unknown"
+            landmarkType = "0">
             <Locations>
                <Location
                   shouldBeEnabled = "No"
@@ -458,13 +458,13 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "CheapTrip/Controllers/MainViewController.swift"
-            timestampString = "557823017.159354"
+            timestampString = "557971084.646732"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "254"
-            endingLineNumber = "254"
-            landmarkName = "tableView(_:editActionsForRowAt:)"
-            landmarkType = "7">
+            startingLineNumber = "255"
+            endingLineNumber = "255"
+            landmarkName = "unknown"
+            landmarkType = "0">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -474,13 +474,13 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "CheapTrip/Controllers/MainViewController.swift"
-            timestampString = "557823017.159428"
+            timestampString = "557971084.647066"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "230"
-            endingLineNumber = "230"
-            landmarkName = "tableView(_:editActionsForRowAt:)"
-            landmarkType = "7">
+            startingLineNumber = "231"
+            endingLineNumber = "231"
+            landmarkName = "unknown"
+            landmarkType = "0">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -490,7 +490,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "CheapTrip/Controllers/NewRideViewController.swift"
-            timestampString = "557677676.698879"
+            timestampString = "558013019.628863"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "180"
@@ -522,13 +522,13 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "CheapTrip/Controllers/MainViewController.swift"
-            timestampString = "557823017.15956"
+            timestampString = "557971084.6475019"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "47"
-            endingLineNumber = "47"
-            landmarkName = "MainViewController"
-            landmarkType = "3">
+            startingLineNumber = "48"
+            endingLineNumber = "48"
+            landmarkName = "unknown"
+            landmarkType = "0">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -543,6 +543,22 @@
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "32"
             endingLineNumber = "32"
+            landmarkName = "unknown"
+            landmarkType = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CheapTrip/Controllers/NewRideViewController.swift"
+            timestampString = "558013019.629207"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "40"
+            endingLineNumber = "40"
             landmarkName = "viewDidLoad()"
             landmarkType = "7">
          </BreakpointContent>
@@ -554,12 +570,28 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "CheapTrip/Controllers/NewRideViewController.swift"
-            timestampString = "557677676.69943"
+            timestampString = "558013019.6293859"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "40"
-            endingLineNumber = "40"
-            landmarkName = "viewDidLoad()"
+            startingLineNumber = "165"
+            endingLineNumber = "165"
+            landmarkName = "createRoute(firstCoordinate:secondCoordinate:firestAddress:secondAddress:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CheapTrip/Controllers/NewRideViewController.swift"
+            timestampString = "558013019.629841"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "164"
+            endingLineNumber = "164"
+            landmarkName = "createRoute(firstCoordinate:secondCoordinate:firestAddress:secondAddress:)"
             landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>

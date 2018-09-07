@@ -50,7 +50,7 @@ class NewRideViewController: UIViewController {
         destinationTextField.addTarget(self, action: #selector(destinationTextFieldDidChanged), for:.editingChanged)
         
         datePicker.datePickerMode = .dateAndTime
-        datePicker.addTarget(self, action: #selector(dateChanged(datePicker: )), for: .valueChanged)
+        datePicker.addTarget(self, action: #selector(dateChanged(datePicker:)), for: UIControlEvents.valueChanged)
         dateTextField.inputView = datePicker
         
     }
@@ -183,7 +183,7 @@ class NewRideViewController: UIViewController {
                 }
                 return
             }
-            let route = response.routes.first!
+            let route = response.routes.last!
             self.mapView.add(route.polyline , level: .aboveRoads)
         }
         

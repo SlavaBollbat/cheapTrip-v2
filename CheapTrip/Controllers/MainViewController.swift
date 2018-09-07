@@ -15,6 +15,7 @@ class MainViewController: UIViewController {
     
     @IBOutlet weak var mapView: MKMapView!
     @IBOutlet weak var tableView: UITableView!
+    @IBOutlet weak var activeRidesLabel: UILabel!
     
     var rides = Array<Ride>()
     
@@ -190,7 +191,7 @@ extension MainViewController: UITableViewDataSource, UITableViewDelegate{
             cell.set(ride: rides[indexPath.row])
         }
         
-        cell.backgroundColor = .clear
+        cell.backgroundColor = .white
         
         return cell
     }
